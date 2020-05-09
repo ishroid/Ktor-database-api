@@ -5,6 +5,7 @@ In this sample I tried to solve 4 most asked questions in Ktor.
 #### How to store array of string into the database using exposed in KTOR?
 #### How to "cleanly architect" a Ktor project?
 #### How to use "reference" as foreign key in exposed?
+#### How to code "Admin area" for ktor projects (Pending)
 
 This API is written in [Kotlin](https://kotlinlang.org/) and uses [Ktor async framework](https://ktor.io/) and uses [Exposed Kotlin SQL Framework](https://github.com/JetBrains/Exposed)  with [PostgreSQL](https://www.postgresql.org/)
 
