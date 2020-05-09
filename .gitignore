@@ -1,0 +1,15 @@
+/.gradle
+/.idea
+/out
+/build
+*.iml
+*.ipr
+*.iws
+.gradle
+.vscode
+.project
+/local.properties
+.idea/
+.DS_Store
+/bin
+/capture
